@@ -75,5 +75,3 @@ export const ProductsProvider = ({ children }) => {
 export const useProductsContext = () => {
   return useContext(ProductsContext);
 };
-
-//niye singleproduct'i niye yukardaki fetchproduct gibi usereducerla yaptik? ben link koyardim sonra da single product detailsi yazardim? hep boyle yapmiyor muyduk?
