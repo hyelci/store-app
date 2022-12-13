@@ -24,8 +24,6 @@ const ProductImages = ({ images = [{ url: "" }] }) => {
   );
 };
 
-//main.url ??
-
 const Wrapper = styled.section`
   .main {
     height: 600px;
