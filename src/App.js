@@ -48,5 +48,3 @@ function App() {
 }
 
 export default App;
-
-//niye authwrapper ile hepsini icine koydu anlamadim?

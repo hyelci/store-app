@@ -1,29 +1,32 @@
 {
   "folders": [
-	{
-		"path": "../../../life-in-the-uk"
-	},
-	{
-		"path": "../../../tutorial"
-	},
-	{
-		"path": "../../../react-advanced-v18-main"
-	},
-	{
-		"path": "../../../react-projects-master"
-	},
-	{
-		"path": "../../../react-router-6-tutorial-main"
-	},
-	{
-		"path": "../../../axios-tutorial-react-main"
-	},
-	{
-		"path": "../../../starter-project-react-github-search-users"
-	},
-	{
-		"path": "../.."
-	}
-],
+    {
+      "path": "../../../life-in-the-uk"
+    },
+    {
+      "path": "../../../tutorial"
+    },
+    {
+      "path": "../../../react-advanced-v18-main"
+    },
+    {
+      "path": "../../../react-projects-master"
+    },
+    {
+      "path": "../../../react-router-6-tutorial-main"
+    },
+    {
+      "path": "../../../axios-tutorial-react-main"
+    },
+    {
+      "path": "../../../starter-project-react-github-search-users"
+    },
+    {
+      "path": "../.."
+    },
+    {
+      "path": "../../../e-commerce-app"
+    }
+  ],
   "settings": {}
 }

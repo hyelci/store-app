@@ -84,6 +84,7 @@ const SingleProductPage = () => {
             </p>
             <hr />
             {stock > 0 && <AddToCart product={product} />}
+            <hr className="line" />
           </section>
         </div>
       </div>

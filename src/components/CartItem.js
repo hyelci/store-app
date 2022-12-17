@@ -39,8 +39,6 @@ const CartItem = ({ id, image, name, color, price, amount }) => {
   );
 };
 
-//h5 price-small'i niye kucuk ekranda buyuk ekranda ayri auyri gosteriyorum price'lari
-
 const Wrapper = styled.article`
   .subtotal {
     display: none;
